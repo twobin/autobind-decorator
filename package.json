@@ -1,9 +1,8 @@
 {
-  "name": "autobind-decorator",
-  "version": "2.2.1",
+  "name": "oui-autobind-decorator",
+  "version": "1.0.1",
   "description": "Decorator for binding method to an object",
   "main": "lib/index.js",
-  "module": "src/index.js",
   "types": "./index.d.ts",
   "scripts": {
     "build": "make build",
@@ -29,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andreypopp/autobind-decorator.git"
+    "url": "https://github.com/twobin/autobind-decorator.git"
   }
 }
